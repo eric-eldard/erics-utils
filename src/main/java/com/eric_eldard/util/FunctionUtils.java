@@ -1,5 +1,6 @@
 package com.eric_eldard.util;
 
+/// @author eeldard
 public final class FunctionUtils
 {
     /// For `input`, return `input` (straight pass-through)

@@ -2,6 +2,7 @@ package com.eric_eldard.util;
 
 import java.util.Objects;
 
+/// @author eeldard
 public final class ObjectUtils
 {
     /// {@link Objects#equals}, except `false` is returned if both elements are `null`

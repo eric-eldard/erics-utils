@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
+/// @author eeldard
 public final class SetUtils
 {
     /// @return a mutable `Set` of the elements (as opposed to the immutable version returned by {@link Set#of})

@@ -2,6 +2,7 @@ package com.eric_eldard.util;
 
 import java.lang.reflect.Field;
 
+/// @author eeldard
 public final class ReflectionUtils
 {
     /// Gets the value of the field named `fieldName` from the given `obj`
